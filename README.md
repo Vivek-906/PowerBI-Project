@@ -20,4 +20,5 @@ This project demonstrates skills in data visualization, dashboard design, and de
 Tools Used:
 Power BI
 MS Excel (for dataset)
-
+Screenshots / Demos:
+Example: https://github.com/Vivek-906/PowerBI-Project/blob/main/Snapshot%20of%20PowerBI%20Dashboard.png
