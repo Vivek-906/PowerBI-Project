@@ -22,3 +22,6 @@ Power BI
 MS Excel (for dataset)
 Screenshots / Demos:
 Example: https://github.com/Vivek-906/PowerBI-Project/blob/main/Snapshot%20of%20PowerBI%20Dashboard.png
+
+
+<img width="1373" height="686" alt="Snapshot of PowerBI Dashboard" src="https://github.com/user-attachments/assets/2637e8d4-56fb-438a-b880-9921515bbc41" />
