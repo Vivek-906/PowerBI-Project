@@ -21,7 +21,8 @@ Tools Used:
 Power BI
 MS Excel (for dataset)
 Screenshots / Demos:
+“The following image shows the Power BI dashboard.”
+<img width="1373" height="686" alt="Snapshot of PowerBI Dashboard" src="https://github.com/user-attachments/assets/6421939c-349e-4c5a-8b40-3423ee47ddaa" />
+
 Example: https://github.com/Vivek-906/PowerBI-Project/blob/main/Snapshot%20of%20PowerBI%20Dashboard.png
 
-
-<img width="1373" height="686" alt="Snapshot of PowerBI Dashboard" src="https://github.com/user-attachments/assets/2637e8d4-56fb-438a-b880-9921515bbc41" />
