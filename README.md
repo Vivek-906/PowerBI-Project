@@ -20,6 +20,8 @@ This project demonstrates skills in data visualization, dashboard design, and de
 Tools Used:
 Power BI
 MS Excel (for dataset)
+
+
 Screenshots / Demos:
 “The following image shows the Power BI dashboard.”
 <img width="1373" height="686" alt="Snapshot of PowerBI Dashboard" src="https://github.com/user-attachments/assets/6421939c-349e-4c5a-8b40-3423ee47ddaa" />
