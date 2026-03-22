@@ -18,7 +18,7 @@ Interactive filters (slicers) for dynamic data exploration by state
 This project demonstrates skills in data visualization, dashboard design, and deriving actionable insights using Power BI.
 
 Tools Used:
-Power BI
+Power BI, 
 MS Excel (for dataset)
 
 
